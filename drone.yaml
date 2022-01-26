@@ -5,7 +5,7 @@
 kind: pipeline
 type: kubernetes
 name: default
-namespace: drone
+
 
 steps:
 
